@@ -1,16 +1,13 @@
-# Advanced Number Guessing Game
+# Number Guessing Game 🎮
 
-This is the python interactive number guessing game.
+A Python-based interactive number guessing game.
 
 ## Features
-- Random number genrate
-- Score tracking
+- Random number generation
 - Limited attempts
-- Input validation
+- Score tracking
 - Replay option
+- Input validation
 
-# Language used
-- Pyhthon
-
-## How to run
- python main.py
+## How to Run
+python main.py
