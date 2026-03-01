@@ -9,5 +9,5 @@ A Python-based interactive number guessing game.
 - Replay option
 - Input validation
 
-## How to Run
-python main.py
+## How to run
+ python main.py
